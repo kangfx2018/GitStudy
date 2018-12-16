@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ppppp
+=======
+uuuuuuu
+>>>>>>> 17ba0331575cf62a266e868014e3529b5c232ca6
 jfkdsai
 
 fdjskfjdsa
